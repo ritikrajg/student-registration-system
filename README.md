@@ -13,7 +13,7 @@ A comprehensive student registration system built with React that allows managem
 
 ## Live Demo
 
-[Add your deployed link here]
+https://student-registration-system-sigma-seven.vercel.app/
 
 ## Local Development
 
